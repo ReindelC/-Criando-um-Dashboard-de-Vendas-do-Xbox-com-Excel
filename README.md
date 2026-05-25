@@ -4,8 +4,6 @@ Desafio de projeto  Criando um Dashboard de Vendas do Xbox com Excel
 # 🎮 Criando um Dashboard de Vendas do Xbox com Excel
 
 ![Excel](https://img.shields.io/badge/Excel-Dashboard-green)
-![Python](https://img.shields.io/badge/Python-ETL-blue)
-![BI](https://img.shields.io/badge/BI-Analytics-orange)
 
 ## 📋 Descrição
 
@@ -17,7 +15,4 @@ Este dashboard foi construído com base em uma planilha contendo **295 registros
 
 Período analisado: **Janeiro a Dezembro de 2024**
 
-## 👥 Clientes da Base
-
-A base contém **295 assinantes**, com destaques como Ana Souza, Gabriela Santos, Vinicius Lima, Nilo Peçanha, William Siqueira, Raquel Novaes, Alan Teixeira, entre outros.
 
